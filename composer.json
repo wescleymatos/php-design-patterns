@@ -1,0 +1,6 @@
+{
+    "name": "test-design-patterns",
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
